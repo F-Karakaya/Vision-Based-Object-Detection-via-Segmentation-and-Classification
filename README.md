@@ -121,23 +121,23 @@ The figures referenced in the report (Figure 1 – Figure 11) are also included 
 The following figures correspond directly to the report and illustrate key stages of the pipeline:
 
 - **Figure 1–3:** Original KITTI images and corresponding ground-truth segmentation masks  
-  ![Figure 1](images/image1.png)  
-  ![Figure 2](images/image2.png)  
-  ![Figure 3](images/image3.png)
+  ![Figure 1](images/images1.png)  
+  ![Figure 2](images/images2.png)  
+  ![Figure 3](images/images3.png)
 
 - **Figure 4–6:** Segmentation model outputs and blob extraction results  
-  ![Figure 4](images/image4.png)  
-  ![Figure 5](images/image5.png)  
-  ![Figure 6](images/image6.png)
+  ![Figure 4](images/images4.png)  
+  ![Figure 5](images/images5.png)  
+  ![Figure 6](images/images6.png)
 
 - **Figure 7–9:** Bounding box generation from segmented regions  
-  ![Figure 7](images/image7.png)  
-  ![Figure 8](images/image8.png)  
-  ![Figure 9](images/image9.png)
+  ![Figure 7](images/images7.png)  
+  ![Figure 8](images/images8.png)  
+  ![Figure 9](images/images9.png)
 
 - **Figure 10–11:** Final object detection results after classification  
-  ![Figure 10](images/image10.png)  
-  ![Figure 11](images/image11.png)
+  ![Figure 10](images/images10.png)  
+  ![Figure 11](images/images11.png)
 
 These visualizations clearly demonstrate how segmentation-driven detection works step by step.
 
@@ -184,7 +184,7 @@ The methodology is particularly suitable for:
 ## 📬 Contact
 
 **Furkan Karakaya**  
-Computer Vision & Machine Learning Engineer  
+AI & Computer Vision Engineer  
 📧 se.furkankarakaya@gmail.com  
 
 ---
