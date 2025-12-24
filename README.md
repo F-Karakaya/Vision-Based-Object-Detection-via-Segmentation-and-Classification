@@ -86,7 +86,7 @@ This step ensures consistency between segmentation outputs and bounding box–ba
 ### 2️⃣ Segmentation & Classification Pipeline
 
 The notebook  
-**`Yapay_Gorme_Test_Projesi.ipynb`**  
+**`artificial_vision_test_project.ipynb`**  
 contains the **core implementation of the project**, including:
 
 - Training and evaluation of **segmentation models**
@@ -100,43 +100,26 @@ Both segmentation and classification models are implemented using **deep learnin
 
 ---
 
-### 3️⃣ Technical Report
-
-The file  
-**`Yapay Görme Uygulama Projesi Raporu.pdf`**  
-provides a **complete technical explanation** of:
-
-- Theoretical background
-- Dataset characteristics
-- Model architectures
-- Experimental setup
-- Results and discussions
-
-The figures referenced in the report (Figure 1 – Figure 11) are also included in this repository for visual traceability.
-
----
-
-## 🖼️ Visual Results & Explanations
+## 3️⃣ Visual Results & Explanations
 
 The following figures correspond directly to the report and illustrate key stages of the pipeline:
 
-- **Figure 1–3:** Original KITTI images and corresponding ground-truth segmentation masks  
-  ![Figure 1](images/images1.png)  
-  ![Figure 2](images/images2.png)  
+- **Figure 1:** Original KITTI images and corresponding ground-truth segmentation masks
+  
   ![Figure 3](images/images3.png)
 
-- **Figure 4–6:** Segmentation model outputs and blob extraction results  
-  ![Figure 4](images/images4.png)  
+- **Figure 2:** Segmentation model outputs and blob extraction results
+  
   ![Figure 5](images/images5.png)  
-  ![Figure 6](images/images6.png)
 
-- **Figure 7–9:** Bounding box generation from segmented regions  
+
+- **Figure 3–4:** Bounding box generation from segmented regions
+- 
   ![Figure 7](images/images7.png)  
   ![Figure 8](images/images8.png)  
-  ![Figure 9](images/images9.png)
 
-- **Figure 10–11:** Final object detection results after classification  
-  ![Figure 10](images/images10.png)  
+- **Figure 5:** Final object detection results after classification  
+
   ![Figure 11](images/images11.png)
 
 These visualizations clearly demonstrate how segmentation-driven detection works step by step.
