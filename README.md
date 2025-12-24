@@ -106,21 +106,21 @@ The following figures correspond directly to the report and illustrate key stage
 
 - **Figure 1:** Original KITTI images and corresponding ground-truth segmentation masks
   
-  ![Figure 3](images/images3.png)
+  ![Figure 3](images/image3.png)
 
 - **Figure 2:** Segmentation model outputs and blob extraction results
   
-  ![Figure 5](images/images5.png)  
+  ![Figure 5](images/image5.png)  
 
 
 - **Figure 3–4:** Bounding box generation from segmented regions
 
-  ![Figure 7](images/images7.png)  
-  ![Figure 8](images/images8.png)  
+  ![Figure 7](images/image7.png)  
+  ![Figure 8](images/image8.png)  
 
 - **Figure 5:** Final object detection results after classification  
 
-  ![Figure 11](images/images11.png)
+  ![Figure 11](images/image11.png)
 
 These visualizations clearly demonstrate how segmentation-driven detection works step by step.
 
