@@ -114,7 +114,7 @@ The following figures correspond directly to the report and illustrate key stage
 
 
 - **Figure 3–4:** Bounding box generation from segmented regions
-- 
+
   ![Figure 7](images/images7.png)  
   ![Figure 8](images/images8.png)  
 
